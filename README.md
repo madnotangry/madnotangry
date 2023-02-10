@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @madnotangry
-- 👀 I’m interested in learning. It's not a race, it's not even a marathon. It's a lifestyle.
+- 👀 I’m interested in learning.
 
 <!---
 madnotangry/madnotangry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
